@@ -31,8 +31,5 @@ Feel free to fork this project, make improvements, or adapt the workflow for dif
 ## License
 This project is open-sourced under the MIT License.
 
-## Contact
-For any queries or discussions regarding improvements or collaborations, please contact the project maintainer at [your-email@example.com].
-
 ## Acknowledgments
 This project utilizes publicly available data and `scikit-learn` for model training and evaluation.
